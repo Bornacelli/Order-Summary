@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(225, 100%, 94%);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  max-width: 450px;
+  margin: 0 auto;
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+header img {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px ;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #1f2f56;;
+  margin-top: 50px;
+  font-weight: 700;
+}
+
+p {
+  color: hsl(225, 20%, 60%);
+  margin: 20px 60px;
+}
+
+
